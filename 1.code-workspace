@@ -1,0 +1,58 @@
+{
+	"folders": [
+		{
+			"path": "..\\web\\Lec01"
+		},
+		{
+			"path": "..\\web\\Lec02"
+		},
+		{
+			"path": "..\\web\\Lec03"
+		},
+		{
+			"path": "..\\web\\practice"
+		},
+		{
+			"path": "..\\web\\Lec04"
+		},
+		{
+			"path": "..\\web\\01_css"
+		},
+		{
+			"path": "..\\web\\Lec05"
+		},
+		{
+			"path": "..\\web\\Lec06"
+		},
+		{
+			"path": "..\\web\\Lec07"
+		},
+		{
+			"path": "..\\web\\Lec08"
+		},
+		{
+			"path": "..\\web\\Lec09"
+		},
+		{
+			"path": "..\\web\\Lec10"
+		},
+		{
+			"path": "..\\web\\Lec11"
+		},
+		{
+			"path": "..\\web\\Lec12"
+		},
+		{
+			"path": "..\\web\\Lec13"
+		},
+		{
+			"path": "..\\web\\Lec14"
+		},
+		{
+			"path": "..\\web\\Lec15"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lec15"
+	}
+}
